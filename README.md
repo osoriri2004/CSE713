@@ -5,6 +5,9 @@
 - ID: 19366008, Name: Md. Iftekhar Hossain
 - ID: 19366009, Name: Md. Nur Alam
 
+### Submission of Task: 1
+- https://github.com/osoriri2004/CSE713/blob/main/task-1.md
+
 ### Submission of Task: 2
 - Link: https://github.com/osoriri2004/CSE713/blob/main/task-2.md
 
