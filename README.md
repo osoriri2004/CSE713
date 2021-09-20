@@ -7,3 +7,6 @@
 
 ### Submission of Task: 2
 - Link: https://github.com/osoriri2004/CSE713/blob/main/task-2.md
+
+### Submission of Task: 3
+- Link: https://github.com/osoriri2004/CSE713/blob/main/task-3.md
