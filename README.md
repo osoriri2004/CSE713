@@ -6,10 +6,10 @@
 - ID: 19366009, Name: Md. Nur Alam
 
 ### Submission of Task: 1
-- https://github.com/osoriri2004/CSE713/blob/main/task-1.md
+- https://github.com/osoriri2004/CSE713/tree/main/submission-1
 
 ### Submission of Task: 2
-- Link: https://github.com/osoriri2004/CSE713/blob/main/task-2.md
+- Link: https://github.com/osoriri2004/CSE713/tree/main/submission-2
 
 ### Submission of Task: 3
-- Link: https://github.com/osoriri2004/CSE713/blob/main/task-3.md
+- Link: https://github.com/osoriri2004/CSE713/tree/main/submission-3
